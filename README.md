@@ -12,3 +12,7 @@ Hola, aquí encontraras documentos que pueden servirte de guía para la elaborac
 ## Requisitos 📦 
 
 ✅ Para ejecutar los ejemplos en este repositorio, necesitas tener instalado **R Studio**. Si no lo tienes, puedes descargarlo desde el sitio oficial de [CRAN](https://cran.r-project.org/).
+
+## Participantes
+
+RLadies-SanCris (https://github.com/RLadies-SanCris)
